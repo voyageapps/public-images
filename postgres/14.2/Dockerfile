@@ -1,0 +1,5 @@
+FROM postgres:14.2
+
+ENV POSTGRES_DB voyage
+ENV POSTGRES_USER voyage
+ENV POSTGRES_PASSWORD voyage
